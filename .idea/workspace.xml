@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65f1fe3c-d654-452a-befb-172f9194b64b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios Introduccion a Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/CuartoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DecimoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/NovenoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/OctavoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/PrimerEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/QuintoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SegundoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SeptimoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SextoEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/TercerEjercicio.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fICjR7767iRK4Kv48AH78hrbsc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CuartoEjercicio.executor": "Run",
+    "Application.NovenoEjercicio.executor": "Run",
+    "Application.OctavoEjercicio.executor": "Run",
+    "Application.PrimerEjercicio.executor": "Run",
+    "Application.QuintoEjercicio.executor": "Run",
+    "Application.SegundoEjercicio.executor": "Run",
+    "Application.SeptimoEjercicio.executor": "Run",
+    "Application.SextoEjercicio.executor": "Run",
+    "Application.TercerEjercicio.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Estefania Sora/Documents/UPTC/II Semestre/Programación I/exception",
+    "onboarding.tips.debug.path": "C:/Users/Estefania Sora/Documents/Cursos/Bootcamp/Sección 2/Introduccion/Ejercicios Introduccion a Java/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65f1fe3c-d654-452a-befb-172f9194b64b" name="Changes" comment="" />
+      <created>1713479343640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713479343640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
